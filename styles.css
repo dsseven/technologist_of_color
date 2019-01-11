@@ -1,0 +1,33 @@
+.profile-pic {
+    
+    border-radius: 50%;
+    width:300px;
+    height:300px;
+    border:solid black 1px;
+}
+
+body {
+    background-color: #E4F6C5;
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+    padding: 0 12px;
+}
+
+a:hover {
+    color: green;
+}
+
+li {
+    display: inline;
+}
+
+footer {
+    background-color: #FFFFFF  ; /*#DFFBAE*/
+    margin: 100px -15px;
+    padding: 1em;
+    position: fixed;
+    width: 100%;
+}
